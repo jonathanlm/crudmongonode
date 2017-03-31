@@ -1,0 +1,14 @@
+{
+  "name": "jonathan",
+  "version": "1.0.0",
+  "description": "instalando npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jonathan",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.25"
+  }
+}
